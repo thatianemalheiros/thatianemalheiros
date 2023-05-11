@@ -5,7 +5,6 @@
 - 👨‍💻 I’m Junior Web Developer 
 - 🌱 I’m currently learning **JavaScript, HTML, CSS, React.js** 
 - ✍🏼 I (not) regularly post articles on [medium.com/thatianeormindo](https://medium.com/@thatianeormindo)
-- 😄 Pronouns: he/him
 - ⚡ Fun fact **"Light Side" of the Force** ⭐🧔⚔️
 - 💻 More at //nowloading 
 <br><br>
