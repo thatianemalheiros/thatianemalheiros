@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thatianemalheiros&color=yellow" alt="Profile views" />
 
-I'm  Thatiane Malheiros, and you?
+I'm  **Thatiane Malheiros**, and **you**?
 <details>
   <summary>more about me</summary>   
    
