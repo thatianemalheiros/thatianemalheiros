@@ -4,7 +4,7 @@
 
 I'm  Thatiane Malheiros, and you?
 <details>
-  <summary>Mais sobre mim</summary>   
+  <summary>more about me</summary>   
    
 - 👨‍💻 I’m Junior Web Developer 
    
@@ -12,7 +12,7 @@ I'm  Thatiane Malheiros, and you?
    
 - ✍🏼 I (not) regularly post articles on [medium.com/thatianeormindo](https://medium.com/@thatianeormindo)
    
-- ⚡ Fun fact **"Light Side" of the Force**, lo-fi, dystopia, catlover, 🏳️‍⚧️.
+- ⚡ fact **"Light Side" of the Force**, lo-fi, dystopia, catlover, 🏳️‍⚧️.
    
 - 🗓 Estudo programação ha 1 ano e meio.
 </details>   
