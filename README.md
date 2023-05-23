@@ -14,7 +14,7 @@ I'm  **Thatiane Malheiros**, and **you**?
    
 - ⚡ fact **"Light Side" of the Force**, lo-fi, dystopia, catlover, 🏳️‍⚧️.
    
-- 🗓 Estudo programação ha 1 ano e meio.
+- 🗓 1 year and a half of experience as a JavaScript web developer.
 </details>   
    
 <div style="display: inline_block"><br>
