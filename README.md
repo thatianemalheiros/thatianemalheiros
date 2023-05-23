@@ -10,7 +10,7 @@ I'm  **Thatiane Malheiros**, and **you**?
    
 - 🌱 I’m currently learning **React.js** 
    
-- ✍🏼 I (not) regularly post articles on [medium.com/thatianeormindo](https://medium.com/@thatianeormindo)
+- ✍🏼 I (not) regularly post articles on [medium.com/@pierrando](https://medium.com/@pierrando)
    
 - ⚡ fact **"Light Side" of the Force**, lo-fi, dystopia, catlover, 🏳️‍⚧️.
    
