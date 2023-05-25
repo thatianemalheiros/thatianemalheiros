@@ -23,7 +23,7 @@ I'm  **Thatiane Malheiros**, and **you**?
   <img align="center" alt="Thatiane-HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
   <img align="center" alt="Thatiane-HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
   <img align="center" alt="Thatiane-HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
-   <img align="right" alt="Thatiane-pic" height="200" style="border-radius:50px;" src="https://img.artpal.com/769202/25-21-1-26-14-11-55m.jpg">
+   <img align="right" alt="Thatiane-pic" height="150" style="border-radius:50px;" src="https://img.artpal.com/769202/25-21-1-26-14-11-55m.jpg">
 </div>
 <br><br>
 
