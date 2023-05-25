@@ -1,4 +1,4 @@
-<h1 align="left">Hi, Welcome to my profile on github <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px"></h1>
+<h1 align="center">Hi 👋, welcome to me profile</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thatianemalheiros&color=yellow" alt="Profile views" />
 
