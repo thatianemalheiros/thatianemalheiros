@@ -37,7 +37,7 @@ I'm  **Thatiane Malheiros**, and **you**?
 </p> 
   
 <br><br>
- <img align="right" alt="Thatiane-pic" height="200" style="border-radius:50px;" src="https://img.artpal.com/769202/25-21-1-26-14-11-55m.jpg">
+ <img align="center" alt="Thatiane-pic" height="200" style="border-radius:50px;" src="https://img.artpal.com/769202/25-21-1-26-14-11-55m.jpg">
 </div>
 <br><br>
 
