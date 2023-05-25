@@ -13,6 +13,8 @@ I'm  **Thatiane Malheiros**, and **you**?
 - ✍🏼 I (not) regularly post articles on [medium.com/@pierrando](https://medium.com/@pierrando)
    
 - ⚡ fact **"Light Side" of the Force**, lo-fi, dystopia, catlover, 🏳️‍⚧️.
+
+- 📫 How to reach me **thatianemalheiros@gmail.com**  
    
 - 🗓 1 year and a half of experience as a JavaScript web developer.
 </details>   
@@ -23,6 +25,8 @@ I'm  **Thatiane Malheiros**, and **you**?
   <img align="center" alt="Thatiane-HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
   <img align="center" alt="Thatiane-HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
   <img align="center" alt="Thatiane-HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
+  
+  
    <img align="right" alt="Thatiane-pic" height="160" style="border-radius:50px;" src="https://img.artpal.com/769202/25-21-1-26-14-11-55m.jpg">
 </div>
 <br><br>
