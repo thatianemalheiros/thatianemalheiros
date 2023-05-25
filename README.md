@@ -1,6 +1,6 @@
 
 
-<h1 align="center">Hi 👋, welcome to me profile</h1>
+<h1 align="center">Hi 👋, welcome</h1>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thatianemalheiros&color=yellow" alt="Profile views" />
