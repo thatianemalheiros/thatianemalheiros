@@ -17,7 +17,7 @@
    
 - ✍🏼 I (not) regularly post articles on in pt-br [medium.com/@pierrando](https://medium.com/@pierrando)
    
-- ⚡ fact **"Light Side" of the Force**, lo-fi, dystopia, catlover, 🏳️‍⚧️.
+- ⚡ fact **"Light Side" of the Force**, FPS,  lo-fi, dystopia, catlover, 🏳️‍⚧️.
 
 - 📫 How to reach me **thatianemalheiros@gmail.com**  
    
