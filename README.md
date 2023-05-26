@@ -1,13 +1,15 @@
 
 
-<h1 align="center">Hi 👋, welcome</h1>
-
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thatianemalheiros&color=yellow" alt="Profile views" />
 
-I'm  **Thatiane Malheiros**, and **you**?
+<h1 align="center">Hi 👋, welcome</h1>
+<h5>I'm Thatiane Malheiros, I'm Brazilian and I'm practicing my English newbie 😆 
+   In addition to trying out a new language I'm also taking courses to improve my front-end development skills.
+  My dream is to travel the world to learn new skills. 🌎</h5>
+
+
 <details>
-  <summary>more about me</summary>   
+  <summary>More about me</summary>   
    
 - 👨‍💻 I’m Junior Web Developer 
    
