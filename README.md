@@ -3,9 +3,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thatianemalheiros&color=yellow" alt="Profile views" />
 
 <h1 align="center">Hi 👋, welcome</h1>
-<h5>I'm Thatiane Malheiros, I'm Brazilian and I'm practicing my English newbie 😆 
+<p>I'm Thatiane Malheiros, I'm Brazilian and I'm practicing my English newbie 😆 
    In addition to trying out a new language I'm also taking courses to improve my front-end development skills.
-  My dream is to travel the world to learn new skills. 🌎</h5>
+  My dream is to travel the world to learn new skills. 🌎</p>
 
 
 <details>
