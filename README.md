@@ -19,7 +19,7 @@ I'm  **Thatiane Malheiros**, and **you**?
 
 - 📫 How to reach me **thatianemalheiros@gmail.com**  
    
-- 🗓 1 year and a half of experience as a JavaScript web developer.
+- 🗓 1 year and a half of experience html, css.
 </details>   
    
 <div style="display: inline_block"><br>
