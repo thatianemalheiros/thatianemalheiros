@@ -41,6 +41,11 @@
   <summary><b>:brain: &nbsp;Other knowledge, always learning</b></summary>
   <br/>
    
+   
+ ![JQuery](https://img.shields.io/badge/JQUERY-0769AD.svg?&style=flat&logo=jquery&logoColor=white)&nbsp;
+ ![SASS](https://img.shields.io/badge/SASS-CC6699.svg?&style=flat&logo=sass&logoColor=white)&nbsp;
+ ![AWS](https://img.shields.io/badge/AMAZON%20AWS-232F3E.svg?&style=flat&logo=amazon-aws&logoColor=white)&nbsp;   
+   
 </details>
 
 
