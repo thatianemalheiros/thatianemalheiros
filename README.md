@@ -1,9 +1,14 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=thatianemalheiros&color=yellow" alt="Profile views" />
+ <img src="https://readme-typing-svg.herokuapp.com?color=005678&size=36&width=700&height=60&lines=Ol%C3%A1%2C+sou+Thatiane.;Mas+pode+me+chamar+de+Pierre."/>
+ 
+Frontend Developer 
 
-<h1 align="center">Hi 👋, welcome</h1>
-<p>I'm Thatiane Malheiros, I'm Brazilian and I'm practicing my English intermediary(newbie) 😆 
-   In addition to trying out a new language I'm also taking courses to improve my front-end development skills.
-  My dream/objective is to travel the world to learn new skills. &#127758;&#9992; </p>
+[![Twitter Badge](https://img.shields.io/badge/@pierrando-005678?style=flat-square&labelColor=005678&logo=twitter&logoColor=white&link=https://twitter.com/iuricode)](https://twitter.com/pierrando) 
+[![Linkedin Badge](https://img.shields.io/badge/-Thatiane%20Malheiros-005678?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thatianemalheiros/)](https://www.linkedin.com/in/iuricode/) 
+[![Gmail Badge](https://img.shields.io/badge/-thatianemalheiros@gmail.com-005678?style=flat-square&logo=Gmail&logoColor=white&link=mailto:iuricold99@gmail.com)](mailto:iuricold99@gmail.com)
+ 
+ I'm Brazilian and I'm practicing my English intermediary(newbie) 😆 
+ In addition to trying out a new language I'm also taking courses to improve my **Front-End Development** skills.
+ My dream/objective is to travel the world to learn new skills. &#127758;&#9992; 
 <hr>
 <details>
   <summary>:space_invader: &nbsp;About me</summary>   
@@ -15,8 +20,6 @@
 - ✍🏼 I (not) regularly post articles on in pt-br [medium.com/@pierrando](https://medium.com/@pierrando)
    
 - 💚 love: hardware, software, sci-fi , FPS,  lo-fi, dystopia, cat.
-
-- 📫 How to reach me **thatianemalheiros@gmail.com**  
    
 - 🗓 1 year and a half of experience html, css.
 </details>   
