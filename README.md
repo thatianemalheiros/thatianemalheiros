@@ -13,11 +13,11 @@
    
 - 👨‍💻 I’m Junior Web Developer 
    
-- 🌱 I’m currently learning **React.js** 
+- 💬 Ask me about *JavaScript, HTML, CSS* 
    
 - ✍🏼 I (not) regularly post articles on in pt-br [medium.com/@pierrando](https://medium.com/@pierrando)
    
-- ⚡ fact **"Light Side" of the Force**, FPS,  lo-fi, dystopia, catlover, 🏳️‍⚧️.
+- 💚 love: hardware, software, sci-fi , FPS,  lo-fi, dystopia, cat.
 
 - 📫 How to reach me **thatianemalheiros@gmail.com**  
    
