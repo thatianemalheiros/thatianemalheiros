@@ -17,7 +17,7 @@ Frontend Developer
    
 - 💬 Ask me about *JavaScript, HTML, CSS* 
    
-- ✍🏼 I (not) regularly post articles on in pt-br [medium.com/@pierrando](https://medium.com/@pierrando)
+- ✍🏼 I (not) regularly post articles on in pt-br [dev.to/pierrando](https://dev.to/pierrando)
    
 - 💚 love: hardware, software, sci-fi , FPS,  lo-fi, dystopia, cat.
    
