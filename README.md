@@ -5,7 +5,7 @@
 <h1 align="center">Hi 👋, welcome</h1>
 <p>I'm Thatiane Malheiros, I'm Brazilian and I'm practicing my English intermediary(newbie) 😆 
    In addition to trying out a new language I'm also taking courses to improve my front-end development skills.
-  My dream is to travel the world to learn new skills. &#127758;&#9992; </p>
+  My dream/objective is to travel the world to learn new skills. &#127758;&#9992; </p>
 <hr>
 <details>
   <summary>:space_invader: &nbsp;about me</summary>   
