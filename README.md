@@ -2,7 +2,7 @@
  
 Frontend Developer 
 
-[![Twitter Badge](https://img.shields.io/badge/@pierrando-005678?style=flat-square&labelColor=005678&logo=twitter&logoColor=white&link=https://twitter.com/iuricode)](https://twitter.com/pierrando) 
+[![Twitter Badge](https://img.shields.io/badge/@pierrrando-005678?style=flat-square&labelColor=005678&logo=twitter&logoColor=white&link=https://twitter.com/iuricode)](https://twitter.com/pierrrando) 
 [![Linkedin Badge](https://img.shields.io/badge/-Thatiane%20Malheiros-005678?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/devfrontend-thatiane-malheiros/)](https://www.linkedin.com/in/devfrontend-thatiane-malheiros/) 
 [![Gmail Badge](https://img.shields.io/badge/-thatianemalheiros@gmail.com-005678?style=flat-square&logo=Gmail&logoColor=white&link=mailto:iuricold99@gmail.com)](mailto:iuricold99@gmail.com)
  
