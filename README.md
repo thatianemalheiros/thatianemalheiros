@@ -6,12 +6,12 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Thatiane%20Malheiros-005678?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/devfrontend-thatiane-malheiros/)](https://www.linkedin.com/in/devfrontend-thatiane-malheiros/) 
 [![Gmail Badge](https://img.shields.io/badge/-thatianemalheiros@gmail.com-005678?style=flat-square&logo=Gmail&logoColor=white&link=mailto:iuricold99@gmail.com)](mailto:iuricold99@gmail.com)
  
- I'm Brazilian and I'm practicing my English intermediary(newbie) 😆 
- In addition to trying out a new language I'm also taking courses to improve my **Front-End Development** skills.
- My dream/objective is to travel the world to learn new skills. &#127758;&#9992; 
+I'm Brazilian and I'm practicing my English intermediary(newbie) 😒
+In addition to trying out a new language I'm also taking courses to improve my **Front-End Development** skills.
+My dream/objective is to travel the world to learn new skills. &#127758;&#9992; 
 <hr>
 <details>
-  <summary>:space_invader: &nbsp;About me</summary>   
+   <summary>:space_invader: &nbsp;About me</summary>   
    
 - 👨‍💻 I’m Junior Web Developer (front-end)
    
