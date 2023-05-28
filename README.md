@@ -1,6 +1,6 @@
- <img src="https://readme-typing-svg.herokuapp.com?color=005678&size=36&width=700&height=60&lines=Ol%C3%A1%2C+sou+Thatiane.;Mas+pode+me+chamar+de+Pierre."/>
+<img src="https://readme-typing-svg.herokuapp.com?color=005678&size=36&width=700&height=60&lines=Ol%C3%A1%2C+sou+Thatiane.;Mas+pode+me+chamar+de+Pierre."/>
  
-Frontend Developer 
+<h2>Frontend Developer</h2 
 
 [![Twitter Badge](https://img.shields.io/badge/@pierrrando-005678?style=flat-square&labelColor=005678&logo=twitter&logoColor=white&link=https://twitter.com/iuricode)](https://twitter.com/pierrrando) 
 [![Linkedin Badge](https://img.shields.io/badge/-Thatiane%20Malheiros-005678?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/devfrontend-thatiane-malheiros/)](https://www.linkedin.com/in/devfrontend-thatiane-malheiros/) 
