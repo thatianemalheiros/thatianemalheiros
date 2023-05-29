@@ -13,8 +13,6 @@ My dream/objective is to travel the world to learn new skills. &#127758;&#9992;
 <details>
    <summary>:space_invader: &nbsp;About me</summary>   
    
-- 👨‍💻 I’m Junior Web Developer (front-end)
-   
 - 💬 Ask me about *JavaScript, HTML, CSS*
  
 - 🚀 I’m interested in Web development and cloud computing 
