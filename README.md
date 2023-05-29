@@ -1,5 +1,4 @@
 <img src="https://readme-typing-svg.herokuapp.com?color=005678&size=36&width=700&height=60&lines=Ol%C3%A1%2C+sou+Thatiane.;Mas+pode+me+chamar+de+Pierre."/>
- 
 <h2>Frontend Developer</h2 
 
 [![Twitter Badge](https://img.shields.io/badge/@pierrrando-005678?style=flat-square&labelColor=005678&logo=twitter&logoColor=white&link=https://twitter.com/iuricode)](https://twitter.com/pierrrando) 
@@ -45,7 +44,8 @@ My dream/objective is to travel the world to learn new skills. &#127758;&#9992;
  ![SASS](https://img.shields.io/badge/SASS-CC6699.svg?&style=flat&logo=sass&logoColor=white)&nbsp;
  ![AWS](https://img.shields.io/badge/AMAZON%20AWS-232F3E.svg?&style=flat&logo=amazon-aws&logoColor=white)&nbsp;
  ![GithubActions](https://img.shields.io/badge/GITHUB%20ACTIONS-2088FF.svg?&style=flat&logo=github-actions&logoColor=white)&nbsp;
- ![Notion](https://img.shields.io/badge/Notion-010101.svg?style=flat&logo=notion&logoColor=white) 
+ ![Notion](https://img.shields.io/badge/Notion-010101.svg?style=flat&logo=notion&logoColor=white)
+ ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) 
 </details>
 
 
