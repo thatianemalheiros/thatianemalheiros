@@ -21,7 +21,7 @@ My dream/objective is to travel the world to learn new skills. &#127758;&#9992;
    
 - ✍🏼 I (not) regularly post articles on in pt-br [dev.to/pierrando](https://dev.to/pierrando)
    
-- 💙 love: hardware, software, sci-fi , FPS,  lo-fi, dystopia, cat.
+- 💙 love: hardware, software, sci-fi , FPS,  lo-fi, dystopia, cat ♊(gemini).
    
 - 🗓 1 year and a half of experience html, css.
 </details>   
