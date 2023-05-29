@@ -1,5 +1,6 @@
-<img src="https://readme-typing-svg.herokuapp.com?color=005678&size=36&width=700&height=60&lines=Ol%C3%A1%2C+sou+Thatiane.;Mas+pode+me+chamar+de+Pierre."/>
-<h2>Frontend Developer</h2 
+![bannerr](https://user-images.githubusercontent.com/95478989/198955082-6e78ebb5-e1e4-49f9-8d32-6e5af3984dcd.gif)
+
+<h2>Frontend Development</h2 
 
 [![Twitter Badge](https://img.shields.io/badge/@pierrrando-005678?style=flat-square&labelColor=005678&logo=twitter&logoColor=white&link=https://twitter.com/iuricode)](https://twitter.com/pierrrando) 
 [![Linkedin Badge](https://img.shields.io/badge/-Thatiane%20Malheiros-005678?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/devfrontend-thatiane-malheiros/)](https://www.linkedin.com/in/devfrontend-thatiane-malheiros/) 
@@ -14,7 +15,11 @@ My dream/objective is to travel the world to learn new skills. &#127758;&#9992;
    
 - 👨‍💻 I’m Junior Web Developer (front-end)
    
-- 💬 Ask me about *JavaScript, HTML, CSS* 
+- 💬 Ask me about *JavaScript, HTML, CSS*
+ 
+- 🚀 I’m interested in Web development and cloud computing 
+ 
+- 🌱 I’m currently learning Programming & Web development 
    
 - ✍🏼 I (not) regularly post articles on in pt-br [dev.to/pierrando](https://dev.to/pierrando)
    
