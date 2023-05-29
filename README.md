@@ -68,11 +68,6 @@ My dream/objective is to travel the world to learn new skills. &#127758;&#9992;
 
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/thatianemaZ)
 
-<br><br>
- <img align="right" height="200em" alt="Thatiane-pic" style="border-radius:50px;" src="https://img.artpal.com/769202/25-21-1-26-14-11-55m.jpg">
-</div>
-<br><br>
-
 
 
 <!---
