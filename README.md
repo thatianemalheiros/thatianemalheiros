@@ -13,7 +13,7 @@ In addition to trying out a new language I'm also taking courses to improve my *
 My dream/objective is to travel the world to learn new skills. &#127758;&#9992; 
 <hr>
 <details>
-   <summary>:space_invader: &nbsp;About me</summary>   
+   <summary>:space_invader: &nbsp;More about me</summary>   
    
 - 🦄 Linguagens: *JavaScript*
  
