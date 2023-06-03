@@ -2,9 +2,9 @@
 
 <h2>Frontend Development</h2 
 
-[![Twitter Badge](https://img.shields.io/badge/@pierrrando-440bd4?style=flat-square&labelColor=440bd4&logo=twitter&logoColor=white&link=https://twitter.com/pierre)](https://twitter.com/pierrrando) 
+[![Twitter Badge](https://img.shields.io/badge/@pierrrando-440bd4?style=flat-square&labelColor=440bd4&logo=twitter&logoColor=white&link=https://twitter.com/pierre)](https://twitter.com/pierrrando)
 [![Linkedin Badge](https://img.shields.io/badge/-Thatiane%20Malheiros-440bd4?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/devfrontend-thatiane-malheiros/)](https://www.linkedin.com/in/devfrontend-thatiane-malheiros/) 
-<a href="https://wa.me/5521980829308" alt="WhatsApp">
+<a href="https://wa.me/5521980829308" :target="_blank" alt="WhatsApp">
 <img src="https://img.shields.io/badge/-WhatsApp-440bd4?style=flat-square&labelColor=440bd4&logo=whatsapp&logoColor=white&link=API-DO-SEU-WHATSAPP"/></a> 
  
 I'm Thatiane (or Pierre) I'm Brazilian and I'm practicing my English intermediary(newbie) 
