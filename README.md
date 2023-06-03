@@ -13,15 +13,13 @@ My dream/objective is to travel the world to learn new skills. &#127758;&#9992;
 <details>
    <summary>:space_invader: &nbsp;About me</summary>   
    
-- 💬 Ask me about *JavaScript, HTML, CSS*
+- 🦄 Linguagens: *JavaScript*
  
 - 🚀 I’m interested in Web development and cloud computing 
  
-- 🌱 I’m currently learning Programming & Web development 
-   
 - ✍🏼 I (not) regularly post articles on in pt-br [dev.to/pierrando](https://dev.to/pierrando)
    
-- 💜 love: hardware, software, sci-fi , FPS,  lo-fi, dystopia, cat ♊(gemini).
+- 💜 Love: hardware, software, sci-fi , FPS,  lo-fi, dystopia, cat ♊(gemini).
    
 - 🗓 1 year and a half of experience html, css.
 </details>   
