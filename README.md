@@ -1,6 +1,6 @@
 ![bannerr](https://user-images.githubusercontent.com/95478989/198955082-6e78ebb5-e1e4-49f9-8d32-6e5af3984dcd.gif)
 
-<h2>Frontend Development</h2 
+<h2>Frontend Development</h2> 
 
 [![Twitter Badge](https://img.shields.io/badge/@pierrrando-440bd4?style=flat-square&labelColor=440bd4&logo=twitter&logoColor=white&link=https://twitter.com/pierre)](https://twitter.com/pierrrando)
 [![Linkedin Badge](https://img.shields.io/badge/-Thatiane%20Malheiros-440bd4?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/devfrontend-thatiane-malheiros/)](https://www.linkedin.com/in/devfrontend-thatiane-malheiros/) 
@@ -14,40 +14,40 @@ My dream/objective is to travel the world to learn new skills. &#127758;&#9992;
 <details>
    <summary>:space_invader: &nbsp;More about me</summary>   
    
-- 🦄 Linguagens: *JavaScript*
  
-- ☁️ I’m interested in Web development and cloud computing 
- 
-- ✍🏼 I (not) regularly post articles on in pt-br [dev.to/pierrando](https://dev.to/pierrando)
+ - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
+ - 🎓 &nbsp; Estudando **Git e Github** na <a href="https://www.geekuniversity.com.br/">Geek University</a>.
+ - 💼 &nbsp; Trabalhando como **FREELANCE** na <a href="https://www.workana.com/pt/">Workana</a>
+ - 🌱 &nbsp; Aprendendo mais sobre **SASS e SCSS**.
+
    
-- ⚙️ Love: hardware, software, sci-fi , FPS,  lo-fi, dystopia, cat ♊(gemini).
-   
-- 🗓 1 year and a half of experience html, css.
+
 </details>   
 
 <details>
   <summary><b>:computer: &nbsp;Main tech knowledge</b></summary>
   <br/>
-   
-![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?&style=flat&logo=html5&logoColor=white)&nbsp;
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?&style=flat&logo=css3&logoColor=white)&nbsp;
-![JavaScript](https://img.shields.io/badge/JAVASCRIPT-323330.svg?&style=flat&logo=javascript&logoColor=%23F7DF1E)&nbsp;
-![Git](https://img.shields.io/badge/GIT-%23F05033.svg?&style=flat&logo=git&logoColor=white)&nbsp;
-![GitHub](https://img.shields.io/badge/GITHUB-%23121011.svg?&style=flat&logo=github&logoColor=white)&nbsp;
-![VSCode](https://img.shields.io/badge/VSCODE-007ACC.svg?&style=flat&logo=visual-studio-code)&nbsp;
-![SCRUM](https://img.shields.io/badge/SCRUM-6DB33F.svg?&style=flat&logo=ddd&logoColor=white)&nbsp;   
+ 
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
+  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+  ![JQUERY](https://img.shields.io/badge/-JQUERY-333333?style=flat&logo=JQUERY&logoColor=007396)&nbsp;
+  ![Bootstrap](https://img.shields.io/badge/Bootstrap-333333?style=flat&logo=Bootstrap)
+ 
+  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+    
 </details>
 
 <details>
   <summary><b>:brain: &nbsp;Other knowledge, always learning</b></summary>
   <br/>  
    
- ![JQuery](https://img.shields.io/badge/JQUERY-0769AD.svg?&style=flat&logo=jquery&logoColor=white)&nbsp;
- ![SASS](https://img.shields.io/badge/SASS-CC6699.svg?&style=flat&logo=sass&logoColor=white)&nbsp;
- ![AWS](https://img.shields.io/badge/AMAZON%20AWS-232F3E.svg?&style=flat&logo=amazon-aws&logoColor=white)&nbsp;
- ![GithubActions](https://img.shields.io/badge/GITHUB%20ACTIONS-2088FF.svg?&style=flat&logo=github-actions&logoColor=white)&nbsp;
- ![Notion](https://img.shields.io/badge/Notion-010101.svg?style=flat&logo=notion&logoColor=white)
- ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) 
+ ![SASS](https://img.shields.io/badge/-SASS-333333?style=flat&logo=SASS)&nbsp;
+ ![AWS](https://img.shields.io/badge/AWS-333333?style=flat&logo=amazon)&nbsp;
+ ![Notion](https://img.shields.io/badge/Notion-333333?style?style=flat&logo=Notion)
+ ![Figma](https://img.shields.io/badge/figma-333333?style?style=flat&logo=Figma) 
 </details>
 
 
