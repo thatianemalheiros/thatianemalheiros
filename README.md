@@ -7,9 +7,6 @@
 <a href="https://wa.me/5521980829308" :target="_blank" alt="WhatsApp">
 <img src="https://img.shields.io/badge/-WhatsApp-440bd4?style=flat-square&labelColor=440bd4&logo=whatsapp&logoColor=white&link=API-DO-SEU-WHATSAPP"/></a> 
  
-I'm Thatiane (or Pierre) I'm Brazilian and I'm practicing my English intermediary(newbie) 
-In addition to trying out a new language I'm also taking courses to improve my **Front-End Development** skills.
-My dream/objective is to travel the world to learn new skills. &#127758;&#9992; 
 <hr>
 <details>
    <summary>:space_invader: &nbsp;More about me</summary>   
