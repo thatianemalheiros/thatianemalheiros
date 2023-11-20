@@ -1,5 +1,6 @@
 ![bannerr](https://user-images.githubusercontent.com/95478989/198955082-6e78ebb5-e1e4-49f9-8d32-6e5af3984dcd.gif)
 
+
 <h2>Frontend Development</h2> 
 
 [![Twitter Badge](https://img.shields.io/badge/@pierrrando-440bd4?style=flat-square&labelColor=440bd4&logo=twitter&logoColor=white&link=https://twitter.com/pierre)](https://twitter.com/pierrrando)
@@ -62,7 +63,7 @@
 
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/thatianemaZ)
 
-
+<a href="https://app.daily.dev/thatianemalheiros"><img src="https://api.daily.dev/devcards/724a710bc2dd4d4089da37ebfb248a1c.png?r=1lj" width="300" align="right" alt="Thatiane Malheiros's Dev Card"/></a>
 
 <!---
 thatianemalheiros/thatianemalheiros is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
