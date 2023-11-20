@@ -63,7 +63,7 @@
 
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/thatianemaZ)
 
-<a href="https://app.daily.dev/thatianemalheiros"><img src="https://api.daily.dev/devcards/724a710bc2dd4d4089da37ebfb248a1c.png?r=1lj" width="200" align="center" alt="Thatiane Malheiros's Dev Card"/></a>
+<a href="https://app.daily.dev/thatianemalheiros"><img src="https://api.daily.dev/devcards/724a710bc2dd4d4089da37ebfb248a1c.png?r=1lj" width="200" align="right" alt="Thatiane Malheiros's Dev Card"/></a>
 
 <!---
 thatianemalheiros/thatianemalheiros is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
