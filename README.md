@@ -1,6 +1,6 @@
 <div align="center">
    
-![banner](guia.png)
+<img width="250px" title="titulo da imagem" src="guia.png"/>
    
 </div>
 <h2>React Engineer</h2>
