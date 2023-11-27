@@ -1,13 +1,12 @@
-![bannerr](https://user-images.githubusercontent.com/95478989/198955082-6e78ebb5-e1e4-49f9-8d32-6e5af3984dcd.gif)
+![banner](https://user-images.githubusercontent.com/95478989/198955082-6e78ebb5-e1e4-49f9-8d32-6e5af3984dcd.gif)
 
-
-<h2>React Engineer</h2> 
+<h2>React Engineer</h2>
 
 [![Twitter Badge](https://img.shields.io/badge/@pierrrando-440bd4?style=flat-square&labelColor=440bd4&logo=twitter&logoColor=white&link=https://twitter.com/pierre)](https://twitter.com/pierrrando)
-[![Linkedin Badge](https://img.shields.io/badge/-Thatiane%20Malheiros-440bd4?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/devfrontend-thatiane-malheiros/)](https://www.linkedin.com/in/devfrontend-thatiane-malheiros/) 
+[![Linkedin Badge](https://img.shields.io/badge/-Thatiane%20Malheiros-440bd4?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/devfrontend-thatiane-malheiros/)](https://www.linkedin.com/in/devfrontend-thatiane-malheiros/)
 <a href="https://wa.me/5521980829308" :target="_blank" alt="WhatsApp">
-<img src="https://img.shields.io/badge/-WhatsApp-440bd4?style=flat-square&labelColor=440bd4&logo=whatsapp&logoColor=white&link=API-DO-SEU-WHATSAPP"/></a> 
- 
+<img src="https://img.shields.io/badge/-WhatsApp-440bd4?style=flat-square&labelColor=440bd4&logo=whatsapp&logoColor=white&link=API-DO-SEU-WHATSAPP"/></a>
+
 <hr>
 <details>
    <summary>:space_invader: &nbsp;More about me</summary>   
@@ -18,9 +17,7 @@
  - 💼 &nbsp; Trabalhando como **FREELANCE** na <a href="https://www.workana.com/pt/">Workana</a>
  - 🌱 &nbsp; Aprendendo mais sobre **SASS e SCSS**.
 
-   
-
-</details>   
+</details>
 
 <details>
   <summary><b>:computer: &nbsp;Main tech knowledge</b></summary>
@@ -47,7 +44,6 @@
  ![Notion](https://img.shields.io/badge/Notion-333333?style?style=flat&logo=Notion)
  ![Figma](https://img.shields.io/badge/figma-333333?style?style=flat&logo=Figma) 
 </details>
-
 
 <details>
   <summary><b>   &#128202; GitHub Statistics</b></summary>
