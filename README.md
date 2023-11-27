@@ -1,5 +1,8 @@
-![banner](https://user-images.githubusercontent.com/95478989/198955082-6e78ebb5-e1e4-49f9-8d32-6e5af3984dcd.gif)
-
+<div align="center">
+   
+![banner](guia.png)
+   
+</div>
 <h2>React Engineer</h2>
 
 [![Twitter Badge](https://img.shields.io/badge/@pierrrando-440bd4?style=flat-square&labelColor=440bd4&logo=twitter&logoColor=white&link=https://twitter.com/pierre)](https://twitter.com/pierrrando)
