@@ -1,8 +1,3 @@
-<div align="center">
-   
-<img width="250px" title="titulo da imagem" src="guia.png"/>
-   
-</div>
 <h2>React Engineer</h2>
 
 [![Twitter Badge](https://img.shields.io/badge/@pierrrando-440bd4?style=flat-square&labelColor=440bd4&logo=twitter&logoColor=white&link=https://twitter.com/pierre)](https://twitter.com/pierrrando)
