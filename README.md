@@ -11,7 +11,7 @@
    
  
  - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
- - 🎓 &nbsp; Estudando **Git e Github** na <a href="https://www.geekuniversity.com.br/">Geek University</a>.
+ - 🎓 &nbsp; Estudando **Logica de programação** na <a href="https://www.geekuniversity.com.br/">Geek University</a>.
  - 💼 &nbsp; Trabalhando como **FREELANCE** na <a href="https://www.workana.com/pt/">Workana</a>
  - 🌱 &nbsp; Aprendendo mais sobre **SASS e SCSS**.
 
