@@ -1,4 +1,4 @@
-<h2>Software Engineer</h2>
+<h2>Security Engineer</h2>
 
 [![Twitter Badge](https://img.shields.io/badge/@pierrrando-440bd4?style=flat-square&labelColor=440bd4&logo=twitter&logoColor=white&link=https://twitter.com/pierre)](https://twitter.com/pierrrando)
 [![Linkedin Badge](https://img.shields.io/badge/-Thatiane%20Malheiros-440bd4?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/devfrontend-thatiane-malheiros/)](https://www.linkedin.com/in/devfrontend-thatiane-malheiros/)
