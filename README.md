@@ -26,7 +26,7 @@
 </details>
 
 <details>
-   <summary>:space_invader: &nbsp;Mais sobre mim</summary>
+   <summary>🤖 &nbsp;Mais sobre mim</summary>
 
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 &nbsp; Estudando **Lógica de programação** na [Geek University](https://www.geekuniversity.com.br/).
