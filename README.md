@@ -3,27 +3,50 @@
 [![Cybersecurity Badge](https://img.shields.io/badge/-Cybersecurity-000?style=for-the-badge&logo=lock&logoColor=white)](#)
 
 <details>
-   <summary>:lock: &nbsp;Cybersecurity</summary>
+   <summary>🔒 &nbsp; Certificações em Segurança da Informação.</summary>
 
-- 🔐 &nbsp; Certificações em Segurança da Informação.
-- 🖥️ &nbsp; Experiência em análise de vulnerabilidades.
-- 🚧 &nbsp; Desenvolvimento seguro de aplicações.
-
-### Ferramentas e Conhecimentos:
-
-- **Ferramentas:**
-  - [![Burp Suite](https://img.shields.io/badge/-Burp%20Suite-333333?style=flat&logo=burp)](https://portswigger.net/burp)
-  - [![Wireshark](https://img.shields.io/badge/-Wireshark-333333?style=flat&logo=wireshark)](https://www.wireshark.org/)
-  - [![Nmap](https://img.shields.io/badge/-Nmap-333333?style=flat&logo=nmap)](https://nmap.org/)
-  - [![Metasploit](https://img.shields.io/badge/-Metasploit-333333?style=flat&logo=metasploit)](https://www.metasploit.com/)
-
-- **Conhecimentos:**
-  - Criptografia
-  - Análise de Malware
-  - Forense Digital
-  - **Cursando Defesa Cibernética**
+   - [![Certificado 1](URL_DO_CERTIFICADO_1)](LINK_PARA_CERTIFICADO_1)
+   - [![Certificado 2](URL_DO_CERTIFICADO_2)](LINK_PARA_CERTIFICADO_2)
+   - [![Certificado 3](URL_DO_CERTIFICADO_3)](LINK_PARA_CERTIFICADO_3)
 
 </details>
+
+<details>
+   <summary>🖥️ &nbsp; Experiência em análise de vulnerabilidades.</summary>
+
+   - [![Vulnerabilidade](URL_DA_BADGE_VULNERABILIDADE)](LINK_PARA_MAIS_INFORMACOES)
+
+</details>
+
+<details>
+   <summary>🚧 &nbsp; Desenvolvimento seguro de aplicações.</summary>
+
+   - [![Desenvolvimento Seguro](URL_DA_BADGE_DESENVOLVIMENTO_SEGURO)](LINK_PARA_MAIS_INFORMACOES)
+
+</details>
+
+### 🛠️ Ferramentas e Conhecimentos:
+
+<details>
+   <summary>🔧 &nbsp; Ferramentas:</summary>
+
+   - [![Burp Suite](https://img.shields.io/badge/-Burp%20Suite-333333?style=flat&logo=burp)](https://portswigger.net/burp)
+   - [![Wireshark](https://img.shields.io/badge/-Wireshark-333333?style=flat&logo=wireshark)](https://www.wireshark.org/)
+   - [![Nmap](https://img.shields.io/badge/-Nmap-333333?style=flat&logo=nmap)](https://nmap.org/)
+   - [![Metasploit](https://img.shields.io/badge/-Metasploit-333333?style=flat&logo=metasploit)](https://www.metasploit.com/)
+
+</details>
+
+<details>
+   <summary>💡 &nbsp; Conhecimentos:</summary>
+
+   - [![Criptografia](URL_DA_BADGE_CRIPTOGRAFIA)](LINK_PARA_MAIS_INFORMACOES)
+   - [![Análise de Malware](URL_DA_BADGE_ANALISE_DE_MALWARE)](LINK_PARA_MAIS_INFORMACOES)
+   - [![Forense Digital](URL_DA_BADGE_FORENSE_DIGITAL)](LINK_PARA_MAIS_INFORMACOES)
+   - [![Cursando Defesa Cibernética](URL_DA_BADGE_CURSANDO_DEFESA_CIBERNETICA)](LINK_PARA_MAIS_INFORMACOES)
+
+</details>
+
 
 <details>
    <summary>🤖 &nbsp;Mais sobre mim</summary>
